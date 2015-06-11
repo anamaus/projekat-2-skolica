@@ -1,0 +1,38 @@
+h1, h3 {
+    text-transform: uppercase;
+}
+body {
+    font-family: 'Indie Flower', cursive;
+    color: #777777;
+    font-weight: 300;
+}
+
+.superlogo {
+margin-top: 20px;
+}
+
+.supertitle {
+    font-size: 60px;
+}
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #333333;
+}
+ a:hover, a:visited {
+     text-decoration: none;
+     font-size: 20px;
+     color: indianred;
+ ;
+ }
+ hr {
+     height: 2px;
+     /*color: #b92c28;*/
+     background-color:#777777;
+ }
+ .modal-body {
+     font-size: 20px;
+ }
+ .modal-title {
+     font-size: 30px;
+ }
